@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* Space before NAVIGATION BAR */
+.before-nav {
+  letter-spacing: 1.4px;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 25px 0 25px 0;
+  text-align: center;
+  color: #fff;
+  background-color: hsla(240, 51%, 14%, 0.925);
+}
+
+.before-nav a {
+  color: #fff;
+}
+
+.before-nav span {
+  letter-spacing: 0.4px;
+  font-size: 18px;
+  padding: 5px 8px 5px 8px;
+  border-radius: 5%;
+  margin-right: 20px;
+  background-color: rgb(33, 145, 145);
+}
+
+/* NAVBAR  */
