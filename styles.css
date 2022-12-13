@@ -2,12 +2,13 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
 /* Space before NAVIGATION BAR */
 .before-nav {
   letter-spacing: 1.4px;
   font-weight: 600;
-  font-size: 18px;
+  font-size: 14px;
   padding: 25px 0 25px 0;
   text-align: center;
   color: #fff;
